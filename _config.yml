@@ -25,6 +25,7 @@ skills:
  - MSC Adams
  - ANSYS
  - Abaqus
+ - LabVIEW
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 
@@ -48,7 +49,7 @@ roles:
    
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
+ - level: Bachelor of Science (B.S.)
    date: May 2018
    subject: Mechanical Engineering
    school: The Ohio State University
