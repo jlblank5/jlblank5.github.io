@@ -58,6 +58,19 @@ education:
    subject: Mechanical Engineering
    school: University of Wisconsin-Madison
 
+# add any rewards
+awards:
+University of Wisconsin-Madison
+   - Graduate School Physical Sciences Annual Fellowship		     
+ 
+ The Ohio State University
+   - Undergraduate Research Scholarship recipient for Honors thesis        
+   - Dean’s list (x8)
+   - Ohio State Provost Scholarship Recipient 				  
+   - Krill & Elliot Scholarship Recipient 					   
+   - Parker Hannifin Local Scholarship Recipient 				        
+
+
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    I am a highly motivated student with a passion for applied research in musculoskeletal biomechanics.
