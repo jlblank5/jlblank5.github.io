@@ -49,26 +49,29 @@ roles:
    
 #Education is required
 education:
- - level: Bachelor of Science (B.S.)
-   date: May 2018
-   subject: Mechanical Engineering
-   school: The Ohio State University
+
  - level: Doctor of Philosophy (Ph.D.)
    date: Ongoing
    subject: Mechanical Engineering
    school: University of Wisconsin-Madison
+   
+ - level: Bachelor of Science (B.S.)
+   date: May 2018
+   subject: Mechanical Engineering
+   school: The Ohio State University
 
 # add any rewards
 awards:
-University of Wisconsin-Madison
-   - Graduate School Physical Sciences Annual Fellowship		     
+
+   - institution: University of Wisconsin-Madison
+   - awards: Graduate School Physical Sciences Annual Fellowship		     
  
-The Ohio State University
-   - Undergraduate Research Scholarship recipient for Honors thesis        
-   - Dean’s list (x8)
-   - Ohio State Provost Scholarship Recipient 				  
-   - Krill & Elliot Scholarship Recipient 					   
-   - Parker Hannifin Local Scholarship Recipient 				        
+   - institution: The Ohio State University
+   - awards: Undergraduate Research Scholarship recipient for Honors thesis        
+   Dean’s list (x8)
+   Ohio State Provost Scholarship Recipient 				  
+   Krill & Elliot Scholarship Recipient 					   
+   Parker Hannifin Local Scholarship Recipient 				        
 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
