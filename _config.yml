@@ -14,7 +14,7 @@ primarylinks:
    url: https://www.linkedin.com/in/jonathon-blank-6aa32210b/
 
 #Any buzzword skills you want to include
-skills:
+skills: 
  - Mechanical Design
  - Experimental Design
  - Solidworks
@@ -26,12 +26,12 @@ skills:
  - OpenSim
  - LabVIEW
  
- progskills:
+progskills: 
  - Java
  - C++
  - Python
  
- fabskills:
+fabskills: 
  - Precision Machining
  - MIG Welding (Fe and Al)
  - TIG Welding (Fe and Al)
