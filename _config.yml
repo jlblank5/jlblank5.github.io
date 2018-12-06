@@ -76,10 +76,14 @@ education:
 awards:
 
    - institution: University of Wisconsin-Madison
-   - description: Graduate School Physical Sciences Annual Fellowship		     
+     description: Graduate School Physical Sciences Annual Fellowship		     
  
    - institution: The Ohio State University
-   - description: Undergraduate Research Scholarship recipient for Honors thesis, Dean’s list (x8), Ohio State Provost Scholarship Recipient, Krill & Elliot Scholarship Recipient, Parker Hannifin Local Scholarship Recipient 				        
+     description: Undergraduate Research Scholarship recipient for Honors thesis
+                  Dean’s list (x8)
+                  Ohio State Provost Scholarship Recipient
+                  Krill & Elliot Scholarship Recipient
+                  Parker Hannifin Local Scholarship Recipient 				        
 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
