@@ -79,11 +79,11 @@ awards:
      description: Graduate School Physical Sciences Annual Fellowship		     
  
    - institution: The Ohio State University
-     description: Undergraduate Research Scholarship recipient for Honors thesis\n
-                  Dean’s list (x8)\n
-                  Ohio State Provost Scholarship Recipient\n
-                  Krill & Elliot Scholarship Recipient\n
-                  Parker Hannifin Local Scholarship Recipient\n			        
+     description: Undergraduate Research Scholarship recipient for Honors thesis
+     description: Dean’s list (x8)
+     description: Ohio State Provost Scholarship Recipient
+     description: Krill & Elliot Scholarship Recipient
+     description: Parker Hannifin Local Scholarship Recipient	        
 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
