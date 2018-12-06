@@ -21,11 +21,17 @@ skills:
  - C++
  - Python
  - Solidworks
- - Autodesk Inventor and AutoCAD
+ - Autodesk Inventor
+ - AutoCAD
  - MSC Adams
  - ANSYS
  - Abaqus
  - LabVIEW
+ 
+ fabskills:
+ - Precision Machining
+ - MIG Welding (Fe and Al)
+ - TIG Welding (Fe and Al)
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 
