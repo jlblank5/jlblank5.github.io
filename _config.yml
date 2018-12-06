@@ -80,10 +80,10 @@ awards:
  
    - institution: The Ohio State University
      description: Undergraduate Research Scholarship recipient for Honors thesis 
-                  Dean’s list (x8) 
-                  Ohio State Provost Scholarship Recipient 
-                  Krill & Elliot Scholarship Recipient 
-                  Parker Hannifin Local Scholarship Recipient	        
+                 -description: Dean’s list (x8) 
+                 -description: Ohio State Provost Scholarship Recipient 
+                 -description: Krill & Elliot Scholarship Recipient 
+                 -description: Parker Hannifin Local Scholarship Recipient	        
 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
