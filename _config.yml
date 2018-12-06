@@ -27,9 +27,12 @@ skills:
  - LabVIEW
  
 progskills: 
+ - MATLAB
  - Java
  - C++
  - Python
+ - Simulink
+ - Arduino
  
 fabskills: 
  - Precision Machining
