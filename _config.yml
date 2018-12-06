@@ -17,16 +17,19 @@ primarylinks:
 skills:
  - Mechanical Design
  - Experimental Design
- - Java
- - C++
- - Python
  - Solidworks
  - Autodesk Inventor
  - AutoCAD
  - MSC Adams
  - ANSYS
  - Abaqus
+ - OpenSim
  - LabVIEW
+ 
+ progskills:
+ - Java
+ - C++
+ - Python
  
  fabskills:
  - Precision Machining
